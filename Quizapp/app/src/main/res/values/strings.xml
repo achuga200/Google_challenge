@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Quizapp</string>
+
+    <string name="Ready">Ready to take the quiz? you have only 10mins.</string>
+    <string name="question1">1.Brass gets discoloured in air because of the presence of which of the following gasses in air?</string>
+    <string name="question1_choice1">Oxygen</string>
+    <string name="question1_choice2">Nitogen</string>
+    <string name="question1_choice3">Hydrogen Sulphide</string>
+
+    <string name="question2">2.Carbon has two compound, graphite and what?.</string>
+
+    <string name="question3">3.Which of the following materials are used in pencil production?</string>
+    <string name="question3_choice1">Graphite</string>
+    <string name="question3_choice2">Phosphorus</string>
+    <string name="question3_choice3">Wood</string>
+    <string name="question3_choice4">Charcoal</string>
+
+    <string name="question4">4.The smallest indivisible particle of matter is called?</string>
+
+    <string name="question5">5.Which of the following is a non metal that remain liquid at room temperaure?</string>
+    <string name="question5_choice1">Chlorine</string>
+    <string name="question5_choice2">Bromine</string>
+    <string name="question5_choice3">phosphorus</string>
+
+    <string name="question6">6.what is that which has mass and occupy space?</string>
+
+    <string name="question7">7.What are the three states of matter?</string>
+    <string name="question7_choice1">water</string>
+    <string name="question7_choice2">Air</string>
+    <string name="question7_choice3">Solid</string>
+    <string name="question7_choice4">Gas</string>
+
+    <string name="question8">8.The freezing point of ice is what degree Centigrade</string>
+
+    <string name="question9">9.Chlorophyll is a naturally occurring chelate compound in which central metal is?</string>
+    <string name="question9_choice1">Iron</string>
+    <string name="question9_choice2">Magnesuim</string>
+
+    <string name="question10">10.The boiling point of water is what degree centigrade</string>
+
+    <string name="submit_answers">Submit Answers</string>
+    <string name="action_setting">Action Settings</string>
+
+</resources>
